@@ -1,0 +1,19 @@
+package practica5;
+import formularios.frmprincipal;
+
+/**
+ *
+ * @author alex0
+ */
+public class Practica5 {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+        frmprincipal principal = new frmprincipal();
+        principal.setVisible(true);
+    }
+    
+}
